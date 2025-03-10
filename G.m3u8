@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=8000000,RESOLUTION=3840x2160
+http://trxx.in:80/play/live.php?mac=00:1A:79:FB:2A:83&stream=1411396&extension=m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:1f:67:10&stream=1363480&extension=ts
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:1f:67:10&stream=1330457&extension=ts
